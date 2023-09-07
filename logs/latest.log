@@ -1,0 +1,406 @@
+[19:16:01] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[19:16:04] [ServerMain/INFO]: Loaded 7 recipes
+[19:16:04] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[19:16:04] [Server thread/INFO]: Loading properties
+[19:16:04] [Server thread/INFO]: This server is running CraftBukkit version 3857-Spigot-94e187b-8ef7afe (MC: 1.20.1) (Implementing API version 1.20.1-R0.1-SNAPSHOT)
+[19:16:05] [Server thread/INFO]: Debug logging is disabled
+[19:16:05] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[19:16:05] [Server thread/INFO]: Using 4 threads for Netty based IO
+[19:16:05] [Server thread/INFO]: Default game type: SURVIVAL
+[19:16:05] [Server thread/INFO]: Generating keypair
+[19:16:05] [Server thread/INFO]: Starting Minecraft server on *:25565
+[19:16:05] [Server thread/INFO]: Using default channel type
+[19:16:05] [Server thread/INFO]: [DynamicDifficulty] Loading DynamicDifficulty v1.7
+[19:16:05] [Server thread/INFO]: [BlockShuffle] Loading BlockShuffle v1.2.5
+[19:16:05] [Server thread/INFO]: Preparing level "world"
+[19:16:05] [Server thread/INFO]: -------- World Settings For [world] --------
+[19:16:05] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[19:16:05] [Server thread/INFO]: Mob Spawn Range: 6
+[19:16:05] [Server thread/INFO]: Experience Merge Radius: 3.0
+[19:16:05] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[19:16:05] [Server thread/INFO]: Cane Growth Modifier: 100%
+[19:16:05] [Server thread/INFO]: Melon Growth Modifier: 100%
+[19:16:05] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[19:16:05] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[19:16:05] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[19:16:05] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[19:16:05] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[19:16:05] [Server thread/INFO]: Potato Growth Modifier: 100%
+[19:16:05] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[19:16:05] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[19:16:05] [Server thread/INFO]: Vine Growth Modifier: 100%
+[19:16:05] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[19:16:05] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[19:16:05] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[19:16:05] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[19:16:05] [Server thread/INFO]: TwistingVines Growth Modifier: 100%
+[19:16:05] [Server thread/INFO]: WeepingVines Growth Modifier: 100%
+[19:16:05] [Server thread/INFO]: CaveVines Growth Modifier: 100%
+[19:16:05] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
+[19:16:05] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[19:16:05] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+[19:16:05] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[19:16:05] [Server thread/INFO]: Max TNT Explosions: 100
+[19:16:05] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[19:16:05] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[19:16:05] [Server thread/INFO]: Item Despawn Rate: 6000
+[19:16:05] [Server thread/INFO]: Item Merge Radius: 2.5
+[19:16:05] [Server thread/INFO]: Simulation Distance: 10
+[19:16:05] [Server thread/INFO]: View Distance: 10
+[19:16:05] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[19:16:05] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[19:16:06] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[19:16:06] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[19:16:06] [Server thread/INFO]: Mob Spawn Range: 6
+[19:16:06] [Server thread/INFO]: Experience Merge Radius: 3.0
+[19:16:06] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[19:16:06] [Server thread/INFO]: Cane Growth Modifier: 100%
+[19:16:06] [Server thread/INFO]: Melon Growth Modifier: 100%
+[19:16:06] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[19:16:06] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[19:16:06] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[19:16:06] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[19:16:06] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[19:16:06] [Server thread/INFO]: Potato Growth Modifier: 100%
+[19:16:06] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[19:16:06] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[19:16:06] [Server thread/INFO]: Vine Growth Modifier: 100%
+[19:16:06] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[19:16:06] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[19:16:06] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[19:16:06] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[19:16:06] [Server thread/INFO]: TwistingVines Growth Modifier: 100%
+[19:16:06] [Server thread/INFO]: WeepingVines Growth Modifier: 100%
+[19:16:06] [Server thread/INFO]: CaveVines Growth Modifier: 100%
+[19:16:06] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
+[19:16:06] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[19:16:06] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+[19:16:06] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[19:16:06] [Server thread/INFO]: Max TNT Explosions: 100
+[19:16:06] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[19:16:06] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[19:16:06] [Server thread/INFO]: Item Despawn Rate: 6000
+[19:16:06] [Server thread/INFO]: Item Merge Radius: 2.5
+[19:16:06] [Server thread/INFO]: Simulation Distance: 10
+[19:16:06] [Server thread/INFO]: View Distance: 10
+[19:16:06] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[19:16:06] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[19:16:07] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[19:16:07] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[19:16:07] [Server thread/INFO]: Mob Spawn Range: 6
+[19:16:07] [Server thread/INFO]: Experience Merge Radius: 3.0
+[19:16:07] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[19:16:07] [Server thread/INFO]: Cane Growth Modifier: 100%
+[19:16:07] [Server thread/INFO]: Melon Growth Modifier: 100%
+[19:16:07] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[19:16:07] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[19:16:07] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[19:16:07] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[19:16:07] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[19:16:07] [Server thread/INFO]: Potato Growth Modifier: 100%
+[19:16:07] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[19:16:07] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[19:16:07] [Server thread/INFO]: Vine Growth Modifier: 100%
+[19:16:07] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[19:16:07] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[19:16:07] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[19:16:07] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[19:16:07] [Server thread/INFO]: TwistingVines Growth Modifier: 100%
+[19:16:07] [Server thread/INFO]: WeepingVines Growth Modifier: 100%
+[19:16:07] [Server thread/INFO]: CaveVines Growth Modifier: 100%
+[19:16:07] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
+[19:16:07] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[19:16:07] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+[19:16:07] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[19:16:07] [Server thread/INFO]: Max TNT Explosions: 100
+[19:16:07] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[19:16:07] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[19:16:07] [Server thread/INFO]: Item Despawn Rate: 6000
+[19:16:07] [Server thread/INFO]: Item Merge Radius: 2.5
+[19:16:07] [Server thread/INFO]: Simulation Distance: 10
+[19:16:07] [Server thread/INFO]: View Distance: 10
+[19:16:07] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[19:16:07] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[19:16:07] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[19:16:10] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[19:16:10] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:16:10] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[19:16:10] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:16:10] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[19:16:10] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[19:16:10] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[19:16:10] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[19:16:11] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[19:16:11] [Worker-Main-3/INFO]: Preparing spawn area: 13%
+[19:16:12] [Worker-Main-3/INFO]: Preparing spawn area: 75%
+[19:16:12] [Server thread/INFO]: Time elapsed: 5217 ms
+[19:16:12] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[19:16:15] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[19:16:15] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[19:16:15] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[19:16:15] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[19:16:15] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[19:16:15] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[19:16:15] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:16:16] [Worker-Main-6/INFO]: Preparing spawn area: 1%
+[19:16:16] [Worker-Main-1/INFO]: Preparing spawn area: 80%
+[19:16:16] [Server thread/INFO]: Time elapsed: 4126 ms
+[19:16:16] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[19:16:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:16:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:16:18] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[19:16:18] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[19:16:18] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[19:16:19] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:16:19] [Worker-Main-2/INFO]: Preparing spawn area: 77%
+[19:16:19] [Server thread/INFO]: Time elapsed: 3136 ms
+[19:16:19] [Server thread/INFO]: [DynamicDifficulty] Enabling DynamicDifficulty v1.7
+[19:16:19] [Server thread/INFO]: [DynamicDifficulty] Successfully connected to File[m
+[19:16:20] [Server thread/INFO]: [BlockShuffle] Enabling BlockShuffle v1.2.5
+[19:16:20] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[19:16:20] [Server thread/INFO]: Done (14.200s)! For help, type "help"
+[19:16:28] [User Authenticator #1/INFO]: UUID of player taytaypanda is f6b586cd-2da8-4a66-beaa-10701a543669
+[19:16:28] [Server thread/INFO]: taytaypanda joined the game
+[19:16:28] [Server thread/INFO]: taytaypanda[/192.168.0.8:55779] logged in with entity id 101 at ([world]-205.56285564275552, 68.0, 2259.206623811013)
+[19:16:51] [Server thread/INFO]: taytaypanda issued server command: /blockshuffle
+[19:16:53] [Server thread/INFO]: [BlockShuffle] taytaypanda got Magenta Concrete Powder
+[19:17:04] [Server thread/INFO]: taytaypanda issued server command: /blockshuffle stop
+[19:17:04] [Server thread/INFO]: [0;33;22m<BlockShuffle> [0;32;22mThe Block Shuffle game has been ended![m
+[19:17:17] [User Authenticator #2/INFO]: UUID of player RowanGothNerd is 4ec952de-80f7-4b51-9f78-7579c2d567c1
+[19:17:17] [Server thread/INFO]: RowanGothNerd joined the game
+[19:17:17] [Server thread/INFO]: RowanGothNerd[/192.168.0.7:54228] logged in with entity id 393 at ([world]457.99712461759447, -1.0, -118.32042300439349)
+[19:17:46] [Server thread/INFO]: taytaypanda issued server command: /difficulty peaceful
+[19:17:46] [Server thread/INFO]: [taytaypanda: The difficulty has been set to Peaceful]
+[19:19:56] [Server thread/INFO]: taytaypanda issued server command: /blockshuffle
+[19:20:00] [Server thread/INFO]: [BlockShuffle] taytaypanda got Black Concrete
+[19:20:00] [Server thread/INFO]: [BlockShuffle] RowanGothNerd got Purple Carpet
+[19:22:10] [Server thread/INFO]: taytaypanda issued server command: /affinity set 3
+[19:22:32] [Server thread/INFO]: taytaypanda issued server command: /affinity set RowanGothNerd 3
+[19:23:24] [Server thread/INFO]: [0;33;22m<BlockShuffle> [0;32;22mRowanGothNerd[0;37;1m has found their block![m
+[19:24:41] [Server thread/INFO]: [0;33;22m<BlockShuffle> [0;32;22mtaytaypanda[0;37;1m has found their block![m
+[19:24:41] [Server thread/INFO]: [BlockShuffle] taytaypanda got Purple Concrete
+[19:24:41] [Server thread/INFO]: [BlockShuffle] RowanGothNerd got Bedrock
+[19:28:05] [Server thread/INFO]: RowanGothNerd has made the advancement [Isn't It Iron Pick]
+[19:29:07] [Server thread/INFO]: [0;33;22m<BlockShuffle> [0;32;22mRowanGothNerd[0;37;1m has found their block![m
+[19:29:11] [Server thread/INFO]: [0;33;22m<BlockShuffle> [0;37;1mThe game is over, the winners are: RowanGothNerd![m
+[19:31:19] [Server thread/INFO]: taytaypanda issued server command: /blockshuffle
+[19:31:23] [Server thread/INFO]: [BlockShuffle] taytaypanda got Light Blue Bed
+[19:31:23] [Server thread/INFO]: [BlockShuffle] RowanGothNerd got Brown Stained Glass Pane
+[19:36:23] [Server thread/INFO]: [0;33;22m<BlockShuffle> [0;37;1mThe game is over, the winners are: taytaypanda, RowanGothNerd![m
+[19:36:32] [Server thread/INFO]: taytaypanda issued server command: /blockshuffle
+[19:36:53] [Server thread/INFO]: [BlockShuffle] taytaypanda got Brown Glazed Terracotta
+[19:36:53] [Server thread/INFO]: [BlockShuffle] RowanGothNerd got Jungle Planks
+[19:41:53] [Server thread/INFO]: [0;33;22m<BlockShuffle> [0;37;1mThe game is over, the winners are: taytaypanda, RowanGothNerd![m
+[19:41:57] [Server thread/INFO]: taytaypanda issued server command: /blockshuffle
+[19:41:58] [Server thread/INFO]: [BlockShuffle] taytaypanda got Brown Carpet
+[19:41:58] [Server thread/INFO]: [BlockShuffle] RowanGothNerd got Cyan Concrete Powder
+[19:43:28] [Server thread/INFO]: taytaypanda issued server command: /weather clear
+[19:43:28] [Server thread/INFO]: [taytaypanda: Set the weather to clear]
+[19:46:58] [Server thread/INFO]: [0;33;22m<BlockShuffle> [0;37;1mThe game is over, the winners are: taytaypanda, RowanGothNerd![m
+[19:47:02] [Server thread/INFO]: taytaypanda issued server command: /blockshuffle
+[19:47:03] [Server thread/INFO]: [BlockShuffle] taytaypanda got Glass Pane
+[19:47:03] [Server thread/INFO]: [BlockShuffle] RowanGothNerd got Spruce Fence Gate
+[19:48:31] [Server thread/INFO]: [0;33;22m<BlockShuffle> [0;32;22mRowanGothNerd[0;37;1m has found their block![m
+[19:51:36] [Server thread/INFO]: [0;33;22m<BlockShuffle> [0;32;22mtaytaypanda[0;37;1m has found their block![m
+[19:51:36] [Server thread/INFO]: [BlockShuffle] taytaypanda got Cyan Stained Glass Pane
+[19:51:36] [Server thread/INFO]: [BlockShuffle] RowanGothNerd got Andesite
+[19:52:22] [Server thread/INFO]: RowanGothNerd fell from a high place
+[19:54:25] [Server thread/INFO]: [0;33;22m<BlockShuffle> [0;32;22mtaytaypanda[0;37;1m has found their block![m
+[19:56:06] [Server thread/INFO]: [0;33;22m<BlockShuffle> [0;37;1mThe game is over, the winners are: taytaypanda![m
+[19:56:18] [Server thread/INFO]: taytaypanda issued server command: /blockshuffle
+[19:56:20] [Server thread/INFO]: [BlockShuffle] taytaypanda got Pink Terracotta
+[19:56:20] [Server thread/INFO]: [BlockShuffle] RowanGothNerd got Black Terracotta
+[20:01:20] [Server thread/INFO]: [0;33;22m<BlockShuffle> [0;37;1mThe game is over, the winners are: taytaypanda, RowanGothNerd![m
+[20:01:58] [Server thread/INFO]: taytaypanda issued server command: /blockshuffle
+[20:01:59] [Server thread/INFO]: [BlockShuffle] taytaypanda got Acacia Pressure Plate
+[20:01:59] [Server thread/INFO]: [BlockShuffle] RowanGothNerd got White Wool
+[20:02:38] [Server thread/INFO]: [0;33;22m<BlockShuffle> [0;32;22mRowanGothNerd[0;37;1m has found their block![m
+[20:06:59] [Server thread/INFO]: [0;33;22m<BlockShuffle> [0;37;1mThe game is over, the winners are: RowanGothNerd![m
+[20:07:04] [Server thread/INFO]: taytaypanda issued server command: /blockshuffle
+[20:07:05] [Server thread/INFO]: [BlockShuffle] taytaypanda got Red Concrete Powder
+[20:07:05] [Server thread/INFO]: [BlockShuffle] RowanGothNerd got Stone
+[20:08:09] [Server thread/INFO]: [0;33;22m<BlockShuffle> [0;32;22mRowanGothNerd[0;37;1m has found their block![m
+[20:08:31] [Server thread/INFO]: [0;33;22m<BlockShuffle> [0;32;22mtaytaypanda[0;37;1m has found their block![m
+[20:08:31] [Server thread/INFO]: [BlockShuffle] taytaypanda got Yellow Stained Glass Pane
+[20:08:31] [Server thread/INFO]: [BlockShuffle] RowanGothNerd got Cobblestone
+[20:08:36] [Server thread/INFO]: [0;33;22m<BlockShuffle> [0;32;22mRowanGothNerd[0;37;1m has found their block![m
+[20:11:01] [Server thread/INFO]: [0;33;22m<BlockShuffle> [0;32;22mtaytaypanda[0;37;1m has found their block![m
+[20:11:01] [Server thread/INFO]: [BlockShuffle] taytaypanda got Brick Stairs
+[20:11:01] [Server thread/INFO]: [BlockShuffle] RowanGothNerd got Gray Bed
+[20:14:37] [Server thread/INFO]: [0;33;22m<BlockShuffle> [0;32;22mtaytaypanda[0;37;1m has found their block![m
+[20:15:01] [Server thread/INFO]: [0;33;22m<BlockShuffle> [0;37;1mThe game is over, the winners are: taytaypanda![m
+[20:16:10] [Server thread/INFO]: taytaypanda issued server command: /blockshuffle
+[20:16:18] [Server thread/INFO]: [BlockShuffle] taytaypanda got Red Concrete Powder
+[20:16:18] [Server thread/INFO]: [BlockShuffle] RowanGothNerd got Yellow Terracotta
+[20:16:46] [Server thread/INFO]: [0;33;22m<BlockShuffle> [0;32;22mtaytaypanda[0;37;1m has found their block![m
+[20:19:50] [Server thread/INFO]: [0;33;22m<BlockShuffle> [0;32;22mRowanGothNerd[0;37;1m has found their block![m
+[20:19:50] [Server thread/INFO]: [BlockShuffle] taytaypanda got Cobbled Deepslate
+[20:19:50] [Server thread/INFO]: [BlockShuffle] RowanGothNerd got Beehive
+[20:22:14] [Server thread/INFO]: taytaypanda has made the advancement [Isn't It Iron Pick]
+[20:24:20] [Server thread/INFO]: [0;33;22m<BlockShuffle> [0;37;1mThe game is over, the winners are: taytaypanda, RowanGothNerd![m
+[20:24:33] [Server thread/INFO]: taytaypanda issued server command: /blockshuffle
+[20:24:34] [Server thread/INFO]: [BlockShuffle] taytaypanda got Black Terracotta
+[20:24:34] [Server thread/INFO]: [BlockShuffle] RowanGothNerd got Pink Stained Glass
+[20:27:13] [Server thread/INFO]: [0;33;22m<BlockShuffle> [0;32;22mRowanGothNerd[0;37;1m has found their block![m
+[20:27:48] [Server thread/INFO]: [0;33;22m<BlockShuffle> [0;32;22mtaytaypanda[0;37;1m has found their block![m
+[20:27:48] [Server thread/INFO]: [BlockShuffle] taytaypanda got Dark Oak Wood
+[20:27:48] [Server thread/INFO]: [BlockShuffle] RowanGothNerd got Orange Terracotta
+[20:32:18] [Server thread/INFO]: [0;33;22m<BlockShuffle> [0;37;1mThe game is over, the winners are: taytaypanda, RowanGothNerd![m
+[20:32:21] [Server thread/INFO]: taytaypanda issued server command: /blockshuffle
+[20:32:23] [Server thread/INFO]: [BlockShuffle] taytaypanda got Green Stained Glass
+[20:32:23] [Server thread/INFO]: [BlockShuffle] RowanGothNerd got Brown Bed
+[20:33:39] [Server thread/INFO]: Villager EntityVillager['Nitwit'/27516, l='ServerLevel[world]', x=2398.63, y=66.50, z=160.28] died, message: 'Nitwit suffocated in a wall'
+[20:37:23] [Server thread/INFO]: [0;33;22m<BlockShuffle> [0;37;1mThe game is over, the winners are: taytaypanda, RowanGothNerd![m
+[20:37:34] [Server thread/INFO]: taytaypanda issued server command: /blockshuffle
+[20:37:36] [Server thread/INFO]: [BlockShuffle] taytaypanda got Anvil
+[20:37:36] [Server thread/INFO]: [BlockShuffle] RowanGothNerd got Spruce Leaves
+[20:38:25] [Server thread/INFO]: [0;33;22m<BlockShuffle> [0;32;22mRowanGothNerd[0;37;1m has found their block![m
+[20:39:03] [Server thread/INFO]: taytaypanda issued server command: /weather clear
+[20:39:03] [Server thread/INFO]: [taytaypanda: Set the weather to clear]
+[20:42:36] [Server thread/INFO]: [0;33;22m<BlockShuffle> [0;37;1mThe game is over, the winners are: RowanGothNerd![m
+[20:42:40] [Server thread/INFO]: taytaypanda issued server command: /weather clear
+[20:42:40] [Server thread/INFO]: [taytaypanda: Set the weather to clear]
+[20:42:42] [Server thread/INFO]: taytaypanda issued server command: /blockshuffle
+[20:42:44] [Server thread/INFO]: [BlockShuffle] taytaypanda got Oak Fence Gate
+[20:42:44] [Server thread/INFO]: [BlockShuffle] RowanGothNerd got Light Blue Wool
+[20:44:05] [Server thread/INFO]: [0;33;22m<BlockShuffle> [0;32;22mtaytaypanda[0;37;1m has found their block![m
+[20:45:15] [Server thread/INFO]: Villager EntityVillager['Villager'/33372, l='ServerLevel[world]', x=847.32, y=64.38, z=1308.70] died, message: 'Villager suffocated in a wall'
+[20:46:00] [Server thread/INFO]: taytaypanda issued server command: /give RowanGothNerd minecraft:skeleton_spawn_egg 1
+[20:46:01] [Server thread/INFO]: [taytaypanda: Gave 1 [Skeleton Spawn Egg] to RowanGothNerd]
+[20:46:20] [Server thread/INFO]: taytaypanda issued server command: /give RowanGothNerd minecraft:skeleton_spawn_egg 1
+[20:46:20] [Server thread/INFO]: [taytaypanda: Gave 1 [Skeleton Spawn Egg] to RowanGothNerd]
+[20:47:03] [Server thread/INFO]: taytaypanda issued server command: /give RowanGothNerd minecraft:skeleton_spawn_egg 1
+[20:47:03] [Server thread/INFO]: [taytaypanda: Gave 1 [Skeleton Spawn Egg] to RowanGothNerd]
+[20:47:23] [Server thread/INFO]: taytaypanda issued server command: /difficulty normal
+[20:47:23] [Server thread/INFO]: [taytaypanda: The difficulty has been set to Normal]
+[20:47:30] [Server thread/INFO]: RowanGothNerd has made the advancement [Monster Hunter]
+[20:47:38] [Server thread/INFO]: taytaypanda issued server command: /difficulty peaceful
+[20:47:38] [Server thread/INFO]: [taytaypanda: The difficulty has been set to Peaceful]
+[20:47:44] [Server thread/INFO]: [0;33;22m<BlockShuffle> [0;37;1mThe game is over, the winners are: taytaypanda![m
+[20:47:59] [Server thread/INFO]: taytaypanda issued server command: /blockshuffle
+[20:48:00] [Server thread/INFO]: [BlockShuffle] taytaypanda got Green Bed
+[20:48:00] [Server thread/INFO]: [BlockShuffle] RowanGothNerd got Brown Stained Glass
+[20:53:00] [Server thread/INFO]: [0;33;22m<BlockShuffle> [0;37;1mThe game is over, the winners are: taytaypanda, RowanGothNerd![m
+[20:53:03] [Server thread/INFO]: taytaypanda issued server command: /blockshuffle
+[20:53:05] [Server thread/INFO]: [BlockShuffle] taytaypanda got Iron Trapdoor
+[20:53:05] [Server thread/INFO]: [BlockShuffle] RowanGothNerd got Cobbled Deepslate Wall
+[20:54:47] [Server thread/INFO]: [0;33;22m<BlockShuffle> [0;32;22mtaytaypanda[0;37;1m has found their block![m
+[20:57:37] [Server thread/INFO]: [0;33;22m<BlockShuffle> [0;32;22mRowanGothNerd[0;37;1m has found their block![m
+[20:57:37] [Server thread/INFO]: [BlockShuffle] taytaypanda got Blue Glazed Terracotta
+[20:57:37] [Server thread/INFO]: [BlockShuffle] RowanGothNerd got Lime Bed
+[21:02:02] [Server thread/INFO]: [0;33;22m<BlockShuffle> [0;32;22mtaytaypanda[0;37;1m has found their block![m
+[21:02:03] [Server thread/INFO]: [0;33;22m<BlockShuffle> [0;37;1mThe game is over, the winners are: taytaypanda![m
+[21:11:21] [Server thread/INFO]: taytaypanda issued server command: /blockshuffle
+[21:11:22] [Server thread/INFO]: [BlockShuffle] taytaypanda got Light Blue Stained Glass
+[21:11:22] [Server thread/INFO]: [BlockShuffle] RowanGothNerd got Amethyst Block
+[21:14:09] [Server thread/INFO]: [0;33;22m<BlockShuffle> [0;32;22mtaytaypanda[0;37;1m has found their block![m
+[21:15:08] [Server thread/INFO]: Villager EntityVillager['Villager'/41244, l='ServerLevel[world]', x=1143.72, y=90.00, z=819.63] died, message: 'Villager suffocated in a wall'
+[21:16:22] [Server thread/INFO]: [0;33;22m<BlockShuffle> [0;37;1mThe game is over, the winners are: taytaypanda![m
+[21:16:35] [Server thread/INFO]: taytaypanda issued server command: /blockshuffle
+[21:16:36] [Server thread/INFO]: [BlockShuffle] taytaypanda got Orange Bed
+[21:16:36] [Server thread/INFO]: [BlockShuffle] RowanGothNerd got Pink Terracotta
+[21:16:51] [Server thread/INFO]: [0;33;22m<BlockShuffle> [0;32;22mtaytaypanda[0;37;1m has found their block![m
+[21:17:49] [Server thread/INFO]: taytaypanda has made the advancement [Sweet Dreams]
+[21:19:42] [Server thread/INFO]: taytaypanda issued server command: /weather clear
+[21:19:42] [Server thread/INFO]: [taytaypanda: Set the weather to clear]
+[21:21:36] [Server thread/INFO]: [0;33;22m<BlockShuffle> [0;37;1mThe game is over, the winners are: taytaypanda![m
+[21:21:49] [Server thread/INFO]: taytaypanda issued server command: /blockshuffle
+[21:21:51] [Server thread/INFO]: [BlockShuffle] taytaypanda got Andesite Stairs
+[21:21:51] [Server thread/INFO]: [BlockShuffle] RowanGothNerd got Jungle Trapdoor
+[21:22:06] [Server thread/INFO]: taytaypanda issued server command: /blockshuffle
+[21:22:16] [Server thread/INFO]: taytaypanda issued server command: /blockshuffle end
+[21:22:41] [Server thread/INFO]: taytaypanda issued server command: /blockshuffle stop
+[21:22:41] [Server thread/INFO]: [0;33;22m<BlockShuffle> [0;32;22mThe Block Shuffle game has been ended![m
+[21:22:44] [Server thread/INFO]: taytaypanda issued server command: /blockshuffle
+[21:22:45] [Server thread/INFO]: [BlockShuffle] taytaypanda got Stone Stairs
+[21:22:45] [Server thread/INFO]: [BlockShuffle] RowanGothNerd got White Concrete Powder
+[21:24:51] [Server thread/INFO]: [0;33;22m<BlockShuffle> [0;32;22mtaytaypanda[0;37;1m has found their block![m
+[21:27:45] [Server thread/INFO]: [0;33;22m<BlockShuffle> [0;37;1mThe game is over, the winners are: taytaypanda![m
+[21:28:01] [Server thread/INFO]: taytaypanda issued server command: /blockshuffle
+[21:28:03] [Server thread/INFO]: [BlockShuffle] taytaypanda got Andesite Stairs
+[21:28:03] [Server thread/INFO]: [BlockShuffle] RowanGothNerd got Gray Glazed Terracotta
+[21:28:43] [Server thread/INFO]: Villager EntityVillager['Cartographer'/39000, l='ServerLevel[world]', x=3872.55, y=73.02, z=2435.30] died, message: 'Cartographer was slain by taytaypanda'
+[21:28:52] [Server thread/INFO]: [0;33;22m<BlockShuffle> [0;32;22mtaytaypanda[0;37;1m has found their block![m
+[21:29:03] [Server thread/INFO]: Villager EntityVillager['Villager'/39001, l='ServerLevel[world]', x=3871.42, y=74.50, z=2435.55] died, message: 'Villager was slain by taytaypanda'
+[21:29:46] [Server thread/INFO]: Villager EntityVillager['Cartographer'/39048, l='ServerLevel[world]', x=3871.91, y=74.50, z=2431.48] died, message: 'Cartographer was slain by taytaypanda'
+[21:33:02] [Server thread/INFO]: [0;33;22m<BlockShuffle> [0;37;1mThe game is over, the winners are: taytaypanda![m
+[21:33:12] [Server thread/INFO]: taytaypanda issued server command: /blockshuffle
+[21:33:13] [Server thread/INFO]: [BlockShuffle] taytaypanda got Cyan Stained Glass
+[21:33:13] [Server thread/INFO]: [BlockShuffle] RowanGothNerd got Stone Brick Slab
+[21:33:42] [Server thread/INFO]: [0;33;22m<BlockShuffle> [0;32;22mtaytaypanda[0;37;1m has found their block![m
+[21:36:28] [Server thread/INFO]: [0;33;22m<BlockShuffle> [0;32;22mRowanGothNerd[0;37;1m has found their block![m
+[21:36:28] [Server thread/INFO]: [BlockShuffle] taytaypanda got Observer
+[21:36:28] [Server thread/INFO]: [BlockShuffle] RowanGothNerd got Diorite Wall
+[21:38:17] [Server thread/INFO]: [0;33;22m<BlockShuffle> [0;32;22mRowanGothNerd[0;37;1m has found their block![m
+[21:40:58] [Server thread/INFO]: [0;33;22m<BlockShuffle> [0;37;1mThe game is over, the winners are: RowanGothNerd![m
+[21:41:02] [Server thread/INFO]: taytaypanda issued server command: /blockshuffle
+[21:41:04] [Server thread/INFO]: [BlockShuffle] taytaypanda got Stone Bricks
+[21:41:04] [Server thread/INFO]: [BlockShuffle] RowanGothNerd got Tuff
+[21:43:13] [Server thread/INFO]: [0;33;22m<BlockShuffle> [0;32;22mtaytaypanda[0;37;1m has found their block![m
+[21:46:04] [Server thread/INFO]: [0;33;22m<BlockShuffle> [0;37;1mThe game is over, the winners are: taytaypanda![m
+[21:46:10] [Server thread/INFO]: taytaypanda issued server command: /blockshuffle
+[21:46:11] [Server thread/INFO]: [BlockShuffle] taytaypanda got White Terracotta
+[21:46:11] [Server thread/INFO]: [BlockShuffle] RowanGothNerd got Yellow Stained Glass
+[21:50:14] [Server thread/INFO]: [0;33;22m<BlockShuffle> [0;32;22mRowanGothNerd[0;37;1m has found their block![m
+[21:50:57] [Server thread/INFO]: taytaypanda has made the advancement [Ice Bucket Challenge]
+[21:51:11] [Server thread/INFO]: [0;33;22m<BlockShuffle> [0;37;1mThe game is over, the winners are: RowanGothNerd![m
+[21:52:10] [Server thread/INFO]: taytaypanda issued server command: /blockshuffle
+[21:52:11] [Server thread/INFO]: [BlockShuffle] taytaypanda got Acacia Planks
+[21:52:11] [Server thread/INFO]: [BlockShuffle] RowanGothNerd got Jungle Log
+[21:52:26] [Server thread/INFO]: [0;33;22m<BlockShuffle> [0;32;22mtaytaypanda[0;37;1m has found their block![m
+[21:57:11] [Server thread/INFO]: [0;33;22m<BlockShuffle> [0;37;1mThe game is over, the winners are: taytaypanda![m
+[21:57:16] [Server thread/INFO]: taytaypanda issued server command: /blockshuffle
+[21:57:17] [Server thread/INFO]: [BlockShuffle] taytaypanda got Cake
+[21:57:17] [Server thread/INFO]: [BlockShuffle] RowanGothNerd got Iron Ore
+[21:58:19] [Server thread/INFO]: [0;33;22m<BlockShuffle> [0;32;22mRowanGothNerd[0;37;1m has found their block![m
+[22:00:11] [Server thread/INFO]: taytaypanda has made the advancement [The Parrots and the Bats]
+[22:02:17] [Server thread/INFO]: [0;33;22m<BlockShuffle> [0;37;1mThe game is over, the winners are: RowanGothNerd![m
+[22:02:22] [Server thread/INFO]: taytaypanda issued server command: /blockshuffle
+[22:02:24] [Server thread/INFO]: [BlockShuffle] taytaypanda got Light Blue Bed
+[22:02:24] [Server thread/INFO]: [BlockShuffle] RowanGothNerd got Light Gray Concrete Powder
+[22:04:45] [Server thread/INFO]: [0;33;22m<BlockShuffle> [0;32;22mRowanGothNerd[0;37;1m has found their block![m
+[22:05:07] [Server thread/INFO]: [0;33;22m<BlockShuffle> [0;32;22mtaytaypanda[0;37;1m has found their block![m
+[22:05:07] [Server thread/INFO]: [BlockShuffle] taytaypanda got Yellow Stained Glass Pane
+[22:05:07] [Server thread/INFO]: [BlockShuffle] RowanGothNerd got Copper Ore
+[22:05:23] [Server thread/INFO]: [0;33;22m<BlockShuffle> [0;32;22mtaytaypanda[0;37;1m has found their block![m
+[22:05:53] [Server thread/INFO]: [0;33;22m<BlockShuffle> [0;32;22mRowanGothNerd[0;37;1m has found their block![m
+[22:05:53] [Server thread/INFO]: [BlockShuffle] taytaypanda got Gray Glazed Terracotta
+[22:05:53] [Server thread/INFO]: [BlockShuffle] RowanGothNerd got Light Gray Concrete
+[22:06:53] [Server thread/INFO]: [0;33;22m<BlockShuffle> [0;32;22mRowanGothNerd[0;37;1m has found their block![m
+[22:09:26] [Server thread/INFO]: taytaypanda issued server command: /weather clear
+[22:09:26] [Server thread/INFO]: [taytaypanda: Set the weather to clear]
+[22:09:53] [Server thread/INFO]: [0;33;22m<BlockShuffle> [0;37;1mThe game is over, the winners are: RowanGothNerd![m
+[22:10:02] [Server thread/INFO]: taytaypanda issued server command: /blockshuffle
+[22:10:03] [Server thread/INFO]: [BlockShuffle] taytaypanda got Brown Carpet
+[22:10:03] [Server thread/INFO]: [BlockShuffle] RowanGothNerd got Brown Bed
+[22:13:54] [Server thread/INFO]: [0;33;22m<BlockShuffle> [0;32;22mtaytaypanda[0;37;1m has found their block![m
+[22:15:03] [Server thread/INFO]: [0;33;22m<BlockShuffle> [0;37;1mThe game is over, the winners are: taytaypanda![m
+[22:15:10] [Server thread/INFO]: taytaypanda issued server command: /blockshuffle
+[22:15:12] [Server thread/INFO]: [BlockShuffle] taytaypanda got Tuff
+[22:15:12] [Server thread/INFO]: [BlockShuffle] RowanGothNerd got Blue Glazed Terracotta
+[22:19:13] [Server thread/INFO]: [0;33;22m<BlockShuffle> [0;32;22mRowanGothNerd[0;37;1m has found their block![m
+[22:20:12] [Server thread/INFO]: [0;33;22m<BlockShuffle> [0;37;1mThe game is over, the winners are: RowanGothNerd![m
+[22:20:19] [Server thread/INFO]: taytaypanda issued server command: /blockshuffle
+[22:20:20] [Server thread/INFO]: [BlockShuffle] taytaypanda got White Bed
+[22:20:20] [Server thread/INFO]: [BlockShuffle] RowanGothNerd got Light Gray Stained Glass
+[22:22:35] [Server thread/INFO]: [0;33;22m<BlockShuffle> [0;32;22mtaytaypanda[0;37;1m has found their block![m
+[22:24:42] [Server thread/INFO]: [0;33;22m<BlockShuffle> [0;32;22mRowanGothNerd[0;37;1m has found their block![m
+[22:24:42] [Server thread/INFO]: [BlockShuffle] taytaypanda got Dark Oak Planks
+[22:24:42] [Server thread/INFO]: [BlockShuffle] RowanGothNerd got Purple Concrete
+[22:24:54] [Server thread/INFO]: RowanGothNerd lost connection: Disconnected
+[22:24:55] [Server thread/INFO]: RowanGothNerd left the game
+[22:24:56] [Server thread/INFO]: taytaypanda lost connection: Disconnected
+[22:24:56] [Server thread/INFO]: taytaypanda left the game
+[22:25:18] [Server thread/INFO]: Stopping the server
+[22:25:18] [Server thread/INFO]: Stopping server
+[22:25:18] [Server thread/INFO]: [BlockShuffle] Disabling BlockShuffle v1.2.5
+[22:25:18] [Server thread/INFO]: [DynamicDifficulty] Disabling DynamicDifficulty v1.7
+[22:25:18] [Server thread/INFO]: Saving players
+[22:25:19] [Server thread/INFO]: Saving worlds
+[22:25:20] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[22:25:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[22:25:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[22:25:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22:25:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:25:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:25:21] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved

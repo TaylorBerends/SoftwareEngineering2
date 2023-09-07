@@ -1,0 +1,21 @@
+# If this function enabled, then all block types will be possible in-game
+Default: true
+
+
+
+# Please use capital letters, instead of spaces, write '_'
+# Example: DIAMOND_BLOCK
+Blocks:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
